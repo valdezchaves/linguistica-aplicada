@@ -1,0 +1,35 @@
+Este **Miniguia de Estudo** consolida as melhores práticas de linguística aplicada e tecnologia identificadas nos materiais, com foco na transição do aprendizado passivo para a fluência ativa.
+
+### **1. Resumos Estruturados do Assunto**
+
+*   **Metodologias Ativas e Autonomia:** O aprendizado moderno abandona o modelo de recepção passiva. Métodos como o **PBL (Aprendizagem Baseada em Problemas)** e o **CLIL (Integração de Língua e Conteúdo)** colocam o aluno como protagonista, focando na resolução de problemas reais e no uso do idioma para aprender outros temas.
+*   **A Ciência do Aprendizado:** A retenção de longo prazo é otimizada pela **Prática Distribuída** (estudar em pequenos blocos diários de 15 a 45 minutos) em vez de maratonas esporádicas. O fortalecimento da memória ocorre através do **Active Recall** (recuperação ativa) e do **Efeito Teste**, onde forçar o cérebro a lembrar da informação é mais eficaz do que apenas reler.
+*   **O Papel da IA no Idioma:** A Inteligência Artificial Conversacional (IAC) atua como um "nativo virtual" disponível 24h, reduzindo a ansiedade de fala e fornecendo feedback imediato. Ela permite a criação de materiais personalizados e simulações de situações reais de comunicação.
+
+---
+
+### **2. Glossário de Conceitos Principais**
+
+*   **Active Recall (Recuperação Ativa):** Processo mental de forçar a lembrança de informações sem consultar o material original.
+*   **Ilhas de Linguagem (Language Islands):** Roteiros de conversação personalizados baseados na vida real, hobbies e objetivos do aluno.
+*   **Shadowing:** Técnica de escuta e repetição imediata de um áudio nativo para treinar pronúncia, ritmo e memória muscular.
+*   **Prática Distribuída:** Técnica de espaçar as sessões de estudo ao longo do tempo para consolidar a memória.
+*   **Input Compreensível:** Exposição a conteúdos no idioma alvo que o aluno consegue entender em grande parte, mas que apresentam desafios moderados.
+*   **OKRs (Objectives and Key Results):** Sistema de definição de metas onde se estabelece um objetivo ambicioso e resultados práticos mensuráveis.
+
+---
+
+### **3. Prompts Reutilizáveis para Revisão e Prática**
+
+Abaixo estão prompts baseados nas fontes para usar com IA (como o ChatGPT):
+
+#### **A. Expansão de Vocabulário Contextual**
+> *"Eu quero aprender estas 5 palavras em **[IDIOMA]**: **[LISTA]**. Para cada uma, forneça: 1) Tradução para o português; 2) Transcrição fonética padrão; 3) 3 exemplos de frases simples e úteis para o dia a dia; 4) Uma dica minemônica para facilitar a memorização."*
+
+#### **B. Explicação Gramatical Comparativa**
+> *"Aja como um linguista. Explique o ponto gramatical **[EX: PASSADO SIMPLES]** em **[IDIOMA]**, comparando-o com o funcionamento do Português. Depois, crie 3 exercícios de preenchimento de lacunas para eu praticar, baseados no 'Efeito Teste'."*
+
+#### **C. Simulação de "Ilha de Linguagem"**
+> *"Vamos praticar uma conversação. Eu quero simular uma situação de **[TEMA, EX: REUNIÃO DE TRABALHO OU PEDIDO EM RESTAURANTE]**. Comece a conversa comigo no nível **[A1/B1/etc.]**. Após 5 trocas de mensagens, pare e me dê um relatório de desempenho com correções de erros e sugestões de sinônimos mais naturais."*
+
+---
